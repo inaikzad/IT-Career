@@ -1,0 +1,39 @@
+{
+    "test_suite": [
+        {
+            "test_eta": {
+                "test_case_status": "failed"
+            }
+        },
+        {
+            "test_gamma_red": {
+                "test_case_status": "passed"
+            }
+        },
+        {
+            "test_beta": {
+                "test_case_status": "errored"
+            }
+        },
+        {
+            "test_eta": {
+                "test_case_status": "errored"
+            }
+        },
+        {
+            "test_rho": {
+                "test_case_status": "passed"
+            }
+        },
+        {
+            "test_gamma_amber": {
+                "test_case_status": "passed"
+            }
+        },
+        {
+            "test_theta": {
+                "test_case_status": "failed"
+            }
+        }
+    ]
+}

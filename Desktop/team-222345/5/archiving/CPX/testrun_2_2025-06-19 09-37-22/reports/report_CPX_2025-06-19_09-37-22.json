@@ -1,0 +1,29 @@
+{
+    "test_suite": [
+        {
+            "test_xi": {
+                "test_case_status": "skipped"
+            }
+        },
+        {
+            "test_tau_gray": {
+                "test_case_status": "failed"
+            }
+        },
+        {
+            "test_tau_pink": {
+                "test_case_status": "failed"
+            }
+        },
+        {
+            "test_alpha": {
+                "test_case_status": "errored"
+            }
+        },
+        {
+            "test_xi_magenta_high": {
+                "test_case_status": "errored"
+            }
+        }
+    ]
+}
